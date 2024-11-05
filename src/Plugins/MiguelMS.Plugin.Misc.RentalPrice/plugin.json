@@ -1,0 +1,13 @@
+{
+  "Group": "Misc",
+  "FriendlyName": "Rental Price Plugin",
+  "SystemName": "MiguelMS.Plugin.Misc.RentalPrice",
+  "Version": "1.00",
+  "SupportedVersions": [
+    "4.70"
+  ],
+  "Author": "João Miguel Marques Silva",
+  "DisplayOrder": 1,
+  "FileName": "MiguelMS.Plugin.Misc.RentalPrice.dll",
+  "Description": "Allow having a rental price for products with daily, weekly, and monthly prices."
+}
